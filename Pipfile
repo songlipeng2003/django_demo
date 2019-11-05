@@ -11,6 +11,7 @@ django-rest-swagger = "*"
 djangorestframework = "*"
 django-filter = "*"
 mysqlclient = "*"
+django-simpleui = "*"
 
 [requires]
 python_version = "3.7"
