@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'simpleui',
+    'django_demo',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
